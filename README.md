@@ -7,7 +7,7 @@ This is a day planner that will save your meetings. Users can insert their plans
 ## Usage
 Write all of youar activities for the day and press save buttons on the right hand side. All of your activities will be stored. All hours in the past will be grey. Future hours will be green, and the current hour will be bright red. 
 
-![ScreenShot](../assets/dayPlanner.jpg)
+![ScreenShot](assets/dayPlanner.jpg)
 
 ###### Technologies Used
 The main tech used was JavaScript, HTML, and CSS. This code was created on Visual Studio and renders were checked on Google Chrome. 
