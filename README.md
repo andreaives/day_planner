@@ -16,7 +16,7 @@ The main tech used was JavaScript, HTML, and CSS. This code was created on Visua
 ## Problems I faced
 Somehow my relative path on my folders were corrupted so I had to create a new repo, folder, and files which was pretty frustrating. The loop also took me a long time to get through and a few extra eyes.
 
-### 
+### Link
 [Link to the day planner](https://andreaives.github.io/day_planner/)
 
 ## Credits
